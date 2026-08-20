@@ -1,9 +1,9 @@
 <div align="center">
 
   <!-- In-Game Header GIF -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3djJ4ajNtbGR2Z2pmdWhneGhlYzNzOTJwZXUwaXRpczhqYXc1emY3MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CiZ9e5IUPqeVFzc8Mp/giphy.gif" width="450" alt="HUD Gaming GIF" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eXZ6cmJqY3lwM2xvOG83ZGtmOWVzOTJhejdrOWM0MTk2ZGwweTZ3bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PMcyzEALWVUS2IAcjC/giphy.gif" width="450" alt="HUD Gaming GIF" />
 
-  # 🎮 PLAYER 1: NANDIKA PRAPANCA
+  # NANDIKA PRAPANCA
   **`Class: Frontend Specialist & Web Architect`** • **`Rank: Engineering Student`**
 
 </div>
