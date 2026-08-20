@@ -12,4 +12,4 @@ Saya seorang mahasiswa teknik yang antusias dengan pengembangan web modern, arsi
 *   Mengeksplorasi algoritma Machine Learning dan implementasi keamanan/kriptografi.
 
 ### 📫 Hubungi Saya
-[LinkedIn](www.linkedin.com/in/nandika-prapanca-013550318) | [Email](mailto:nrprapanca@gmail.com)
+[LinkedIn](linkedin.com/in/nandika-prapanca-013550318) | [Email](mailto:nrprapanca@gmail.com)
