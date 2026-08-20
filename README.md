@@ -24,3 +24,15 @@ ATTRIBUTES:
   Backend & API    : [██████░░░░] 60% (Python, PHP)
   DevOps & Infra   : [██████░░░░] 60% (Docker, CI/CD Actions, WSL2)
   Security & Logic : [███████░░░] 65% (Cryptography, Data Analytics)
+```
+
+---
+
+### 📡 COMMS & CONTACT
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandika-prapanca-013550318)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nrprapanca@gmail.com)
+
+</div>
