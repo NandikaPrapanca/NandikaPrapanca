@@ -3,7 +3,7 @@
   <!-- In-Game Header GIF -->
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eXZ6cmJqY3lwM2xvOG83ZGtmOWVzOTJhejdrOWM0MTk2ZGwweTZ3bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PMcyzEALWVUS2IAcjC/giphy.gif" width="450" alt="HUD Gaming GIF" />
 
-  # NANDIKA PRAPANCA
+  # NANDIKA RIZKI PRAPANCA
   **`Class: Frontend Specialist & Web Architect`** • **`Rank: Engineering Student`**
 
 </div>
